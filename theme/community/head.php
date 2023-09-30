@@ -150,9 +150,9 @@ include_once(G5_THEME_LIB_PATH.'/new_lastest.lib.php');
 	    <div id="aside_ct">
 	        <div class="short_cut">
 	            <ul>
-	                <li class="f_short_cut"><strong><a href="#">바로가기 메뉴 1</a></strong></li>
-	                <li><strong><a href="#">바로가기 메뉴 2</a></strong></li>
-	                <li><strong><a href="#">바로가기 메뉴 3</a></strong></li>
+	                <li class="f_short_cut"><strong><a href="https://naver.com">나의 정보 수정</a></strong></li>
+	                <li><strong><a href="http://3.34.122.249/bbs/board.php?bo_table=gallery">내 전용 게시판</a></strong></li>
+	                <li><strong><a href="#">안녕</a></strong></li>
 	            </ul>
 	        </div>
 	        <div class="aside_lt">
